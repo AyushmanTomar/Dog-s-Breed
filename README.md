@@ -27,27 +27,8 @@ GitHub Repository: Dog-s-Breed
     source venv/bin/activate  # On Windows use `venv\\Scripts\\activate`
     ```
 
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-## Usage
-
-1. To train the model, run:
-    ```bash
-    python train.py
-    ```
-
-2. To evaluate the model, run:
-    ```bash
-    python evaluate.py
-    ```
-
-3. To make predictions on new images, run:
-    ```bash
-    python predict.py --image_path path_to_your_image
-    ```
+3. Run all the cells of the notebook:
+  
 
 ## Dataset
 
